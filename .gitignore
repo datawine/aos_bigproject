@@ -1,0 +1,12 @@
+.idea/
+CMakeLists.txt
+3rdparty/dpdk
+3rdparty/redis
+cmake-build-debug
+.cproject
+.project
+*.[oa]
+.DS_Store
+venv
+
+sync.sh

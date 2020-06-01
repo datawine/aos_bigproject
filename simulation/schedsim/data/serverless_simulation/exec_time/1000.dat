@@ -1,0 +1,200 @@
+Selected topology: 1
+Cores:16	service_rate:0.1	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:10
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+31551	0	383737.5160774308	418826.79906621145	479815.79022604023	530765.0706094	538757.2889652734	549745.184424121	0.0315509994511991	315510
+Selected topology: 1
+Cores:16	service_rate:0.0794328234724	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:12.589254117946135
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+31213	0	387815.1851271795	424623.2530822423	495460.19690403924	540406.6425423354	547405.1313150186	564389.2807796381	0.031212996057861105	392948.388783236
+Selected topology: 1
+Cores:16	service_rate:0.063095734448	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:15.84893192461599
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+30726	0	390231.57947760617	427574.30185682775	492330.5892348571	545756.2402566795	551743.821847232	557745.5227873112	0.030725997764332758	486974.2823157097
+Selected topology: 1
+Cores:16	service_rate:0.0501187233627	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:19.952623149699637
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+30423	0	393522.2294520809	431795.2559274	496925.0248913345	552964.2482910948	560956.1239676609	570946.5484193572	0.03042299721408077	607018.6540830681
+Selected topology: 1
+Cores:16	service_rate:0.0398107170553	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:25.118864315127173
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+30744	0	389600.8302553623	427203.9610617557	492329.3071045822	548275.7768376698	555262.5716254802	570251.5783573382	0.03074399783721512	772254.3645042327
+Selected topology: 1
+Cores:16	service_rate:0.0316227766017	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:31.622776601667585
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+29883	0	400083.84589814843	439364.9303250702	502587.39875725936	565936.9976904072	572926.8441576713	588914.8867992401	0.029882999815258816	944983.4331882519
+Selected topology: 1
+Cores:16	service_rate:0.0251188643151	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:39.81071705534307
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+29586	0	400950.7591556211	440745.2773927809	500183.5323460205	567338.7186129055	573337.1942972624	590319.1432731219	0.029585997504050037	1.177839874799328e+06
+Selected topology: 1
+Cores:16	service_rate:0.0199526231497	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:50.11872336269908
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+29047	0	405757.1935374367	446486.47242832824	501916.7356702145	576920.7693292508	582915.2958771782	590906.2143517445	0.029046997507907745	1.4557985575160037e+06
+Selected topology: 1
+Cores:16	service_rate:0.0158489319246	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:63.09573444806365
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+28619	0	409357.3720852562	451804.13635000924	499918.00621462753	588238.3604536981	593232.5370256064	601214.3122434414	0.0286189994328576	1.805736824170327e+06
+Selected topology: 1
+Cores:16	service_rate:0.0125892541179	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:79.43282347269108
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+27392	0	418326.23840827117	462152.09075077664	498957.00922489696	604001.5893041135	608996.9767548246	618986.8812510539	0.02739199942818333	2.1758239005632955e+06
+Selected topology: 1
+Cores:16	service_rate:0.01	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:100
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+26450	0	428925.5997034272	476372.83628247236	502325.16033059615	631097.107469416	636089.3350191801	645083.6607388323	0.026449997349162466	2.645e+06
+Selected topology: 1
+Cores:16	service_rate:0.00794328234724	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:125.89254117946133
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+25688	0	435729.9361503835	485002.26979474165	502426.6515081043	646673.7125757766	656658.5634445825	667652.8973220018	0.02568799840453068	3.2339275978173474e+06
+Selected topology: 1
+Cores:16	service_rate:0.0063095734448	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:158.48931924615988
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+24354	0	447041.9518925119	499848.73476943944	500417.46484011237	681116.831679051	687111.5870763063	701095.6230728709	0.024353997666989216	3.859848880922714e+06
+Selected topology: 1
+Cores:16	service_rate:0.00501187233627	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:199.52623149699636
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+22828	0	458655.25837511837	517019.3409544531	493359.0421210949	729215.631821922	742199.049024693	750194.8174216655	0.02282799756390105	4.554784812613594e+06
+Selected topology: 1
+Cores:16	service_rate:0.00398107170553	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:251.18864315127175
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+21186	0	472125.3477389927	536441.1773282815	496063.9993724783	775227.0083985904	787216.2779755853	795207.6807723752	0.021185999345637332	5.321682593802519e+06
+Selected topology: 1
+Cores:16	service_rate:0.00316227766017	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:316.22776601667584
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+19589	0	485455.2673510605	554926.489926064	497018.13417612726	833965.8762941015	839954.1271623739	850947.8343545033	0.019588998446422444	6.194585708498632e+06
+Selected topology: 1
+Cores:16	service_rate:0.00251188643151	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:398.1071705534307
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+17707	0	497227.0328771107	572016.7289545713	499978.0495977638	893258.2755022583	923553.6120672154	938947.684189209	0.017706995375670224	7.0492836689926265e+06
+Selected topology: 1
+Cores:16	service_rate:0.00199526231497	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:501.18723362699086
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+16025	0	498678.6436064082	576151.9895924649	497372.1509997253	899218.0566757426	947824.6198422982	987209.2566120002	0.016024997884821007	8.031525418870928e+06
+Selected topology: 1
+Cores:16	service_rate:0.00158489319246	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:630.9573444806366
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+14180	0	499114.5367555317	576039.8670139861	496818.9247761114	898387.6476979812	948011.6505699967	988862.3696824455	0.014179998243572408	8.946975144736161e+06
+Selected topology: 1
+Cores:16	service_rate:0.00125892541179	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:794.3282347269109
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+12319	0	499899.84521860356	576890.6155305224	500473.1504216199	898582.3825578219	948345.0609252986	988565.614025051	0.012318997044489332	9.78532952359853e+06
+Selected topology: 1
+Cores:16	service_rate:0.001	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:1000
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+10636	0	499827.93311419047	576857.3596091048	499487.8543222971	898123.8746812909	948976.0546620052	988049.0048976389	0.010635995580406808	1.0636e+07
+Selected topology: 1
+Cores:16	service_rate:0.000794328234724	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:1258.9254117946134
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+9081	0	500835.5551337573	577870.2175506905	501095.53156953934	900457.7728247682	949446.6973801153	988850.9896959214	0.009080998139079843	1.143230166450554e+07
+Selected topology: 1
+Cores:16	service_rate:0.00063095734448	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:1584.893192461599
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+7688	0	498602.3404665422	575983.422519415	497205.7622875005	898528.8490661732	949224.7053587022	989530.5413513717	0.007687999930736619	1.2184658863643182e+07
+Selected topology: 1
+Cores:16	service_rate:0.000501187233627	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:1995.2623149699637
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+6398	0	499803.20324566046	577004.4525167169	500743.4848700247	898761.9025631242	949569.2182945658	989517.2427373491	0.006397999683849117	1.2765688291176723e+07
+Selected topology: 1
+Cores:16	service_rate:0.000398107170553	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:2511.8864315127175
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+5312	0	499422.611196042	576386.8485559919	499205.9312428098	899019.6819568559	948809.0295029659	988954.7780873559	0.005311999690360133	1.3343140724196447e+07
+Selected topology: 1
+Cores:16	service_rate:0.000316227766017	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:3162.277660166759
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+4349	0	500711.23420388607	577684.8126829113	500566.6393897798	899705.7029346544	949821.3729012733	988644.7351510199	0.004348999378023595	1.3752745544065576e+07
+Selected topology: 1
+Cores:16	service_rate:0.000251188643151	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:3981.0717055343066
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+3569	0	501136.94212184835	578003.2596341288	501704.2408035228	899942.9137906681	949666.587923768	990462.8345811903	0.003568999935177542	1.420844491705276e+07
+Selected topology: 1
+Cores:16	service_rate:0.000199526231497	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:5011.872336269908
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+2891	0	501538.3373426617	578381.8867396198	500935.1976924529	900707.7530836435	949781.2738892166	989854.1404994383	0.002890999945644359	1.448932292415703e+07
+Selected topology: 1
+Cores:16	service_rate:0.000158489319246	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:6309.573444806366
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+2344	0	502564.1685206994	579118.6697947133	502787.45792826446	900666.1227594806	950516.6985068927	991297.8350130679	0.0023439994661819995	1.4789640154625608e+07
+Selected topology: 1
+Cores:16	service_rate:0.000125892541179	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:7943.282347269108
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+1881	0	500990.6885978939	577451.1508030043	500570.478393357	899781.1797138115	948495.5412617122	988126.8068737168	0.0018809999639181534	1.4941314095213473e+07
+Selected topology: 1
+Cores:16	service_rate:0.0001	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:10000
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+1513	0	502513.6453990103	578692.8065586599	503911.1535259634	899855.8283558874	950866.0766973657	988852.9986776772	0.0015129998770606484	1.513e+07
+Selected topology: 1
+Cores:16	service_rate:7.94328234724e-05	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:12589.254117946133
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+1216	0	503925.3807986209	579851.7534490478	504920.54641734925	902554.4995372992	951911.2719121353	991667.4156159179	0.0012159999721335609	1.5308533007421995e+07
+Selected topology: 1
+Cores:16	service_rate:6.3095734448e-05	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:15848.93192461599
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+970	0	503699.08291366	579401.075965718	506271.0369527811	902600.4382303896	951139.6055109223	988832.6823740832	0.0009699999515689792	1.5373463966877919e+07
+Selected topology: 1
+Cores:16	service_rate:5.01187233627e-05	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:19952.623149699637
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+769	0	501870.9104416163	576582.6553573456	504772.9088877297	899871.849109277	942766.4096482798	983645.9094836544	0.0007689999561020136	1.534356720211927e+07
+Selected topology: 1
+Cores:16	service_rate:3.98107170553e-05	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:25118.864315127175
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+620	0	509367.2209077889	584478.8393505347	511349.51967779367	902101.8601270089	952325.5519733283	997578.8976944074	0.0006199999775262036	1.5573695875379037e+07
+Selected topology: 1
+Cores:16	service_rate:3.16227766017e-05	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:31622.77660166759
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+495	0	512814.9366838617	587501.6738533046	512944.68010721187	901389.4620243072	963651.9958948388	997259.6705161482	0.0004949996567802616	1.5653274417825637e+07
+Selected topology: 1
+Cores:16	service_rate:2.51188643151e-05	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:39810.71705534307
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+384	0	503490.95686973544	575627.6818721405	520517.14253569767	886817.9800886963	927618.0524053996	968427.2091829189	0.0003839999310417656	1.5287315349251745e+07
+Selected topology: 1
+Cores:16	service_rate:1.99526231497e-05	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:50118.723362699086
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+304	0	505981.62899791234	576849.5465047961	506173.72667083016	908115.4990303083	958233.535861631	962215.5872182761	0.0003039999763669897	1.523609190226054e+07
+Selected topology: 1
+Cores:16	service_rate:1.58489319246e-05	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:63095.73444806365
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+240	0	508722.49340249354	578221.5403917773	508753.56048577826	890329.141176206	953410.9167226627	955411.5955567688	0.00023999998816667828	1.5142976267535357e+07
+Selected topology: 1
+Cores:16	service_rate:1.25892541179e-05	interarrival_rate:8	running_time:1e+06	warm_start:1	cold_start:1000	cold_start_ratio:0.5	exec_time:79432.82347269107
+Stats collector: Main Stats
+Count	Stolen	AVG	STDDev	50th	90th	95th	99th	Reqs/time_unit	TotalRequestTime
+192	0	519508.7857856469	588230.3566520106	557026.0100967687	879755.3441559421	958186.5500307698	960186.9201268603	0.00019199996865281824	1.5251102106756728e+07

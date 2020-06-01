@@ -1,0 +1,5 @@
+fw 0
+nat 1
+monitor 2
+ids 3
+vpn 4

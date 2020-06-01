@@ -1,0 +1,7 @@
+*/lib
+*/objs
+*/*.dep
+*/.*
+*/tests/.*
+*/Debug
+*/Release
